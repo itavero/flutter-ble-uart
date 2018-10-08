@@ -1,0 +1,17 @@
+name: flutter_ble_uart
+description: Package to easily integrate UART over Bluetooth Low Energy into your Flutter app
+version: 0.0.1
+author: Arno Moonen <arno@moonen.xyz>
+homepage: https://github.com/itavero/flutter-ble-uart
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

@@ -1,0 +1,16 @@
+.DS_Store
+.dart_tool/
+.packages
+.flutter-plugins
+.pub/
+pubspec.lock
+.project
+.buildlog
+build/
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+android/**/flutter/plugins/GeneratedPluginRegistrant.*
+.idea
+*.iml
+doc/api/
